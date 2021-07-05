@@ -1,28 +1,32 @@
 👋 **Hi, I am Radhika Kumar.**
-
+                                                               
 An Electrical Engineer by qualification, I have worked in Manufacturing and Education sector. Realising my passion for technology in finding creative solutions, I have developed great interest to analyse data and write codes in Python language. 
 Returning from a brief career break, I am excited to start my journey as a woman returner in tech.👩🏻‍💻
 
-👀 I have been learning various tools like MySQL, Python, Tableau and Power BI from great sources such as Udacity, CFG, PA consulting, FreeCodeCamp etc.
+👀 I have been learning various tools and languages like ![image](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=plastic&logoWidth=30) from great sources such as Udacity, CFG, PA consulting etc
 
 Below are few of my project codes in the Github repo.
 
 **Python:** [RadhikaK14/Python-Course.git](https://github.com/RadhikaK14/Python-Course.git)
 - PA consulting Python projects:
 
-1. Guess_the_word (Hangman game) - Final_project.py
-2. Calendar Generator - mini_project.py
-3. Rock_Paper_Scissor game - mini_project.py
+1. Guess_the_word (Hangman game) - _Final_project.py_
+2. Calendar Generator - _mini_project.py_
+3. Rock_Paper_Scissor game - _mini_project.py_
 
 **MySQL**: [RadhikaK14/MySQL.git](https://github.com/RadhikaK14/SQL_Project_MovieDB.git) 
 - CFG Project - Created a relational DB with PK-FK constraints, loaded the data and used joins, functions, procedures, events and triggers to analyse the data.
 
-1. Movie database - all_codes2.sql
+1. Movie database - _all_codes2.sql_
 
 **Tableau:** [RadhikaKumar/Tableau-Visualisations](https://public.tableau.com/profile/radhika.kumar#!/)
 - Udacity Project - Created Visualisations to reveal insights from ‘US demographic’ dataset.
 
-📫 Please reach me on radhik_14@yahoo.co.in
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RadhikaK14&theme=synthwave" />
+
+📫 You can reach me on 
+- [email](radhik_14@yahoo.co.in)
+- [LinkedIn](www.linkedin.com/in/kumar-radhika)
 
 <!---
 RadhikaK14/RadhikaK14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
