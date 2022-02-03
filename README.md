@@ -8,7 +8,10 @@ Returning from a career break, I am excited to start my journey as a woman retur
 Below are few of my project codes in the Github repo.
 
 **Data Analysis** [RadhikaK14/bt_group_project.git](https://github.com/RadhikaK14/bt_group_project.git)
-- Capstone project as part of Data Science Nanodegree
+- Capstone group project as part of Data Science Nanodegree : _Sentiment Analysis of BT customer reviews_
+
+1. Data cleaning of all data files.
+2. Statistical analysis of customer reviews about BT broadband.
 
 **Python:** [RadhikaK14/Python-Course.git](https://github.com/RadhikaK14/Python-Course.git)
 - PA consulting Python projects:
