@@ -3,7 +3,7 @@
 An Electrical Engineer by qualification, I have worked in Manufacturing and Education sector. Realising my passion for technology and finding creative solutions, I have developed great interest to analyse data and do some coding in Python. 
 Returning from a career break, I am excited to start my journey as a woman returner in tech.👩🏻‍💻
 
-👀 I have been learning various tools and languages like ![image](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=plastic&logoWidth=30) from great sources such as Udacity, CFG, PA consulting etc
+👀 I have been learning various tools and languages like ![image](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=plastic&logoWidth=30), ![image](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=plastic&logoWidth=30)
 
 Below are few of my project codes in the Github repo.
 
